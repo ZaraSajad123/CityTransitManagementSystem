@@ -98,20 +98,15 @@ Public intercity bus services in semi-urban areas of Sindh still rely on manual 
 
 3. **Compile:**
 ```bash
-javac -cp .;mysql-connector-j-9.6.0/mysql-connector-j-9.6.0/mysql-connector-j-9.6.0.jar *.java
+javac -cp ".;mysql-connector-j-9.6.0/mysql-connector-j-9.6.0/mysql-connector-j-9.6.0.jar" *.java
 ```
 
 4. **Run:**
 ```bash
-java -cp .;mysql-connector-j-9.6.0/mysql-connector-j-9.6.0/mysql-connector-j-9.6.0.jar MainScreen
-```
-> On Mac/Linux replace `;` with `:` in the classpath
+java -cp ".;mysql-connector-j-9.6.0/mysql-connector-j-9.6.0/mysql-connector-j-9.6.0.jar" MainScreen```
+
 
 ---
-
-## 🎬 Demo Video
-
-▶️ [Watch on YouTube](https://youtu.be/402HOx5PrOY?si=qKhG5CnzY2yCTm-b)
 
 ---
 
