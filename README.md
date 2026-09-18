@@ -116,4 +116,4 @@ java -cp ".;mysql-connector-j-9.6.0/mysql-connector-j-9.6.0/mysql-connector-j-9.
 
 ---
 
-*Spring 2026 — OOP Project — Instructor: Dr. Adil Khan*
+*Spring 2026 — OOP Project — *
